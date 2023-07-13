@@ -20,5 +20,7 @@ Search history: The app keeps a record of previously searched locations, allowin
 Technologies Used
 
 HTML: The structure and layout of the app are created using HTML (Hypertext Markup Language).
+
 CSS: The app's presentation and styling are implemented using CSS (Cascading Style Sheets).
+
 JavaScript: The functionality of the Weather App is developed using JavaScript, including making API requests, handling user interactions, and dynamically updating the UI.
