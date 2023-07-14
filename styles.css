@@ -6,7 +6,7 @@ body {
     margin: 0;
     background: lightgoldenrodyellow;
     font-family: 'Lato', sans-serif;
-    background-image: url('https://source.unsplash.com/1920x1080/?nature');
+    background-image: url('https://source.unsplash.com/1920x1080/?landscape');
 }
 
 .card {
@@ -23,10 +23,12 @@ body {
 display: flex;
 align-items: center;
 justify-content: center;
+;
 }
 button {
     margin: .5em;
-    border-radius: 20%;
+    border-radius: 50%;
+    width: 30px;
     border: none;
     outline: none;
     cursor: pointer;
@@ -42,10 +44,14 @@ input.searchbar {
     border-radius: 14px;
     font-family: inherit;
     font-weight: 500;
-    width: 200px;
+    width: calc(100% - 100px);
     background: #f2f2f27b;
 }
 
 button:hover {
     background: #c4c4c46b;
+}
+
+::placeholder{
+    color: black;
 }
