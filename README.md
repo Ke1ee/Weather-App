@@ -1,6 +1,8 @@
 # Weather-App
 
-![Alt text](relative%20path/to/img.jpg?raw=true "![Alt text](<Screenshot 2023-07-18 at 1.20.36 AM.png>)")
+<img width="1440" alt="Screenshot 2023-07-18 at 1 20 36 AM" src="https://github.com/Ke1ee/Weather-App/assets/116132415/44e8f96d-7847-4dea-8053-209e0571cc88">
+<img width="1440" alt="Screenshot 2023-07-18 at 1 21 46 AM" src="https://github.com/Ke1ee/Weather-App/assets/116132415/613c3b8a-f9d1-49cf-99bc-2ccd05fbf649">
+
 
 A website to check the weather forecast for areas of the world!
 
