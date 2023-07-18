@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Weather App</title>
     <link rel="stylesheet" href="styles.css" />
-    <script src="./script.js"></script>
+    <script src="./script.js" defer></script>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -39,11 +39,13 @@
         </button>
       </div>
       <!--Create markup for weather display-->
-      <div class="weather">
+      <div class="weather loading">
         <h2 class="city">Weather in Florida</h2>
-        <h2 class="temp">51°F</div>
-        <img src="" alt="" class="icon" />
-        <div class="description">Cloudy</div>
+        <h1 class="temp">51°F</div>
+        <div class="flex">
+          <img src="https://openweathermap.org/img/wn/03d.png" alt="" class="icon" />
+          <div class="description">Cloudy</div>
+        </div>
         <div class="humidity">Humidity: 85%</div>
         <div class="feelsLike">Feels like: 62°F</div>
         <div class="wind">Wind Speed: 20mph</div>

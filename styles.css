@@ -6,7 +6,7 @@ body {
     margin: 0;
     background: lightgoldenrodyellow;
     font-family: 'Lato', sans-serif;
-    background-image: url('https://source.unsplash.com/1920x1080/?landscape');
+    background-image: url('ndshttps://source.unsplash.com/1920x1080/?lacape');
 }
 
 .card {
@@ -52,6 +52,24 @@ button:hover {
     background: #c4c4c46b;
 }
 
+h1.temp {
+    margin: 0;
+    margin-bottom: 0.4em;
+}
+
 ::placeholder{
     color: black;
+}
+
+.description {
+    text-transform: capitalize;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+.weather.loading {
+    visibility: hidden;
 }
