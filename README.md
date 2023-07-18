@@ -1,5 +1,7 @@
 # Weather-App
 
+![Alt text](relative%20path/to/img.jpg?raw=true "![Alt text](<Screenshot 2023-07-18 at 1.20.36 AM.png>)")
+
 A website to check the weather forecast for areas of the world!
 
 Description:
